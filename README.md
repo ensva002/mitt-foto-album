@@ -14,5 +14,6 @@ Jeg har lagd en nettside for feriebildene mine. 🏖️
 
 ## Bonus:
 Jeg ønsker meg en mer dynamisk bildekarusell, legg til noe animasjon. Her er noen forslag på hva jeg kunne tenkt meg:
+
 ![](wish1.gif)
 ![](wish2.gif)
