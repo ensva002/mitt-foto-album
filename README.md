@@ -10,7 +10,7 @@ Jeg har lagd en nettside for feriebildene mine. 🏖️
 * Fikse bildekarusellen 📸
     * Den skal vise ett og ett bilde om gangen fra mappen "bilder" 📂
     * Den skal gå til neste bilde hvert 5. sekund ⏲️
-    * Man skal kunne trykke på frem og tilbake piler for å gå til neste og forrige bilde ⏭️
+    * Man skal kunne trykke på frem og tilbake piler med musen for å gå til neste og forrige bilde ⏭️
 
 ## Bonus:
 Jeg ønsker meg en mer dynamisk bildekarusell, legg til noe animasjon. Her er noen forslag på hva jeg kunne tenkt meg:
