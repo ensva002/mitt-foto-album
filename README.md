@@ -1,12 +1,12 @@
 # mitt-foto-album 
 Jeg har lagd en nettside for feriebildene mine. 🏖️
 
-## TODO (oppgave 5):
+## TODO (oppgave 4):
 * Få styling til å funke 😎
 * Vise mine tre favorittbilder 🏞️
 * Linke til bildekarusellen 🎞️
 
-## Backlogg (oppgave 7):
+## Backlogg (oppgave 6):
 * Fikse bildekarusellen 📸
     * Den skal vise ett og ett bilde om gangen fra mappen "bilder" 📂
     * Den skal gå til neste bilde hvert 5. sekund ⏲️
